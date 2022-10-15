@@ -1,1 +1,1 @@
-echo "This is a deploy command to test"
+echo "This is a deploy command to test ngrok"
